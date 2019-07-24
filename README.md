@@ -1,6 +1,6 @@
 ## Descirption
 
-A test of a flask app that displays hello world
+A test of a flask app that displays microbloging title with a username
 
 ## Setup
 
