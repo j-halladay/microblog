@@ -7,7 +7,7 @@ A test of a flask app that displays hello world
 ```
 #set flask app to microblog
 
-export FLASK_APP=microblog.
+export FLASK_APP=microblog.py
 
 #Then run it
 
