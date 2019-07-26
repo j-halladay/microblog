@@ -1,6 +1,7 @@
 from flask import render_template, flash, redirect, url_for
 from . import app
 from . import forms
+from . import models
 
 
 @app.route('/')
